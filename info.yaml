@@ -1,8 +1,8 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "Matrix_BootCamp2026_CRUZ"      # Project title
-  author:       "Zachary Andre A. Cruz"      # Your name
+  title:        ""      # Project title
+  author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
@@ -24,14 +24,14 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "Pallete 0"
-  ui[1]: "Pallete 1"
+  ui[0]: ""
+  ui[1]: ""
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
-  ui[6]: "VGA bit mode 1"
-  ui[7]: "VGA bit mode 0"
+  ui[6]: ""
+  ui[7]: ""
 
   # Outputs
   uo[0]: "R1"
